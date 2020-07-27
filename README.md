@@ -1,8 +1,6 @@
 ### Hi there 👋
 
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on [@DeepGlint](http://www.deepglint.com/)
 - 🌱 I’m currently learning [@TypeScript](https://www.tslang.cn/)
 - 🤔 I’m looking for help with becoming a partner justice!
