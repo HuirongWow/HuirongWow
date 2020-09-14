@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on [@DeepGlint](http://www.deepglint.com/)
+- 🔭 I’m currently working on [@BaiDu](http://www.baidu.com/)
 - 🌱 I’m currently learning [@TypeScript](https://www.tslang.cn/)
 - 🤔 I’m looking for help with becoming a partner justice!
 - 💬 Ask me about JavaCript/Vue/React/Network Protocol or how to be happy~
